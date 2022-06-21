@@ -12,7 +12,7 @@
     "different_img_per_data" : true,
     "redirectPage": true,
     "page" : "watch2",
-    "redirect_text":"Sending view from facebook",
+    "redirect_text":"Sending view from youtube",
     "first_header_color":"#000",
     "first_header_title":"Featured Districts",
     "viewData" : [
@@ -44,7 +44,7 @@
       "different_img_per_data" : true,
       "redirectPage": true,
       "page" : "watch",
-      "redirect_text":"Sending view from youtube",
+      "redirect_text":"Sending view from facebook",
         "first_header_color":"#000",
         "first_header_title":"Featured Districts",
       "viewData" : [
