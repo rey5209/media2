@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo.gif",
-    "tittle" : "TODAY | Season 2 | July 12, 2022 ",
+    "tittle" : "TODAY | Season 2 | July 19, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=_JjnjPOWylA"
+        "link" : "https://www.youtube.com/watch?v=h5a2EmUazxw"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/1AMogKZ1h"
+        "link" : "https://www.facebook.com/events/2850635815244686/"
       }
 
     ],
@@ -40,14 +40,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Bulacan North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Pampanga West",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Isabela South",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bukidnon",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Davao Del Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Masbate",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Rizal East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Bulacan North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
