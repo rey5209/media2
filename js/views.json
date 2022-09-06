@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Season 2 | August 30, 2022 ",
+    "tittle" : "TODAY | Season 2 |  September 6, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -46,14 +46,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Davao City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Pampanga West",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Iriga City, Camarines Sur",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Aklan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Leyte East",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Negros Del Norte",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Bulacan South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Davao City",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
