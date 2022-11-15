@@ -2,11 +2,12 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Interest |  November 8, 2022 ",
+    "tittle" : "TODAY | Interest | November 15, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
     "image" : "INC-Central-Temple-2.jpg",
+    "embed_link" : false, 
     "link" : "https://www.youtube.com", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
@@ -23,9 +24,10 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=bQrJx0g-pz4",
+        "embed_link" : true,
+        "link" : "Jx-3IOY5od8",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
-        "gtag_id" :"G-F5L1BDXPZJ"   
+        "gtag_id" :"G-F5L1BDXPZJ"  
       },
       { 
         "page" : "watch", 
@@ -34,7 +36,8 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1107020350182290/",
+        "embed_link" : false,
+        "link" : "https://www.facebook.com/events/529761718675114/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,12 +49,11 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Kabankalan City, Negros Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Camarines Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Cagayan West",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-  
+      {"lokal":"Iloilo South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Catanduanes",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Laoag City, Ilocos Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
-      {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
       {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
