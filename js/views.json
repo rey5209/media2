@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Interest | November 15, 2022 ",
+    "tittle" : "TODAY | Interest | November 22, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -25,7 +25,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
         "embed_link" : true,
-        "link" : "Jx-3IOY5od8",
+        "link" : "WDOQbpk1O40",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -37,7 +37,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://www.facebook.com/events/529761718675114/",
+        "link" : "https://fb.me/e/31BggYvLK",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -49,9 +49,9 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Iloilo South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Catanduanes",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Laoag City, Ilocos Norte",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Batangas North",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bataan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Camanava",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
       {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
