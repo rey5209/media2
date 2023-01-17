@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfotest.gif",
-    "tittle" : "TODAY | Livelihood | January 10, 2023 ",
+    "tittle" : "TODAY | Interest | January 17, 2023 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -25,7 +25,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
         "embed_link" : true,
-        "link" : "I0kmGaPIJ_I",
+        "link" : "TyguseXY_ew",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -37,7 +37,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://fb.me/e/2dlFBSSd7",
+        "link" : "https://fb.me/e/2Mi4ihOpQ",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -49,9 +49,9 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Manila",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Marinduque",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Zambales South",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Agusan Del Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bulacan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Capiz",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
       {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
